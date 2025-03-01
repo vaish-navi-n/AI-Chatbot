@@ -69,8 +69,8 @@ The `requirements.txt` file includes the following key dependencies:
 
 Here are some screenshots of the completed chatbot:
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](https://github.com/vaish-navi-n/AI-Chatbot/blob/main/Screenshot%20chatbot.png)
+![Screenshot 2](https://github.com/vaish-navi-n/AI-Chatbot/blob/main/Screenshot%20chatbot%202.png)
 
 
 ## Future Improvements
