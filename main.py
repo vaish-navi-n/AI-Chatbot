@@ -5,9 +5,9 @@ import google.generativeai as genai
 
 load_dotenv()
 
-# Initialize Chat Bison (PaLM 2)
+# Initialize Chat gemini-1.5-pro-latest
 genai.configure(api_key=os.getenv("GOOGLE_GEMINI_KEY"))
-model = genai.GenerativeModel('models/gemini-1.5-pro-latest') # Use the Chat Bison model
+model = genai.GenerativeModel('models/gemini-1.5-pro-latest') 
 
 # Gemini uses 'model' for assistant; Streamlit uses 'assistant'
 def role_to_streamlit(role):
